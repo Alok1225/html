@@ -1,0 +1,52 @@
+        .fley {
+            height: 30rem;
+            width: 30rem;
+            background-color: white;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        
+        .f1 {
+            height: 215px;
+            width: 13.1rem;
+            background-color: indigo;
+            margin-top: 10px;
+            margin-left: 7px;
+        }
+        
+        .f2 {
+            margin-left: 22px;
+            height: 15rem;
+            width: 15rem;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        
+        .f2>div {
+            height: 6rem;
+            width: 6rem;
+            background-color: rgb(153, 238, 160);
+            margin: 10px;
+        }
+        
+        .f3 {
+            height: 15rem;
+            width: 15rem;
+            display: flex;
+            flex-wrap: wrap
+        }
+        
+        .f3>div {
+            height: 6rem;
+            width: 6rem;
+            background-color: rgb(132, 235, 137);
+            margin: 8px;
+        }
+        
+        .f4 {
+            margin-top: 8px;
+            height: 216px;
+            width: 13.5rem;
+            background-color: skyblue;
+            margin-left: 8px;
+        }

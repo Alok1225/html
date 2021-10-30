@@ -1,0 +1,106 @@
+.header {
+    padding-left: 20px;
+    height: 3rem;
+    width: 50rem;
+    color: white;
+    line-height: 3rem;
+}
+
+.h1 {
+    height: 3rem;
+    width: 62rem;
+    display: flex;
+    background-color: grey
+}
+
+.h2 {
+    display: flex;
+}
+
+.Home {
+    height: 2rem;
+    width: 3rem;
+    text-align: center;
+    line-height: 3rem;
+    color: white;
+}
+
+.Email {
+    text-align: center;
+    width: 6rem;
+    line-height: 3rem;
+    color: white;
+}
+
+.content {
+    height: 40rem;
+    width: 62rem;
+    background-color: rgb(252, 241, 241);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.content>div {
+    width: 18.7rem;
+    background-color: grey;
+    margin: 10px;
+    border-radius: 5px solid blue;
+    text-align: center;
+    color: white;
+    line-height: 18.7rem;
+}
+
+
+/*.con1 {
+    height: 25rem;
+    width: 20rem;
+    background-color: blue;
+    margin: 15px;
+}
+
+
+.content>div {
+    margin: 15px;
+
+
+.con2 {
+    height: 25rem;
+    width: 20rem;
+    background-color: rgb(0, 0, 0);
+}
+
+.con3 {
+    height: 25rem;
+    width: 20rem;
+    background-color: rgb(219, 32, 32);
+    margin: 15px;
+    ;
+}
+
+.con4 {
+    height: 25rem;
+    width: 20rem;
+    background-color: violet;
+}
+
+.con5 {
+    height: 25rem;
+    width: 20rem;
+    background-color: white;
+}
+
+.con6 {
+    height: 25rem;
+    width: 20rem;
+    background-color: yellow;
+} */
+
+.footer {
+    height: 8rem;
+    width: 100%;
+    text-align: center;
+    line-height: 8rem;
+    background-color: grey;
+    color: white;
+}
